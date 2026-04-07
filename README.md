@@ -22,6 +22,3 @@ The dashboard displays:
 - Total monthly spending
 - Category-wise expenses
 - Recent transactions with date and amount
-
-## Author
-Aaditya Jain
